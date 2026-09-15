@@ -372,7 +372,8 @@ st.markdown("""
 
     
 
-💧 Sistema de Monitoreo Acueducto · Programa Talento Tech 2025
+💧 Sistema de Monitoreo Acueducto · Programa SENATIC 2026
+COLEGIO ARTEMOIO MENDOZA CARVAJAL
 
 
     
